@@ -1,0 +1,8 @@
+{
+  "name": "Football Card Collection Game",
+  "description": "A feature-rich football card collection game featuring card customizers, real-time simulated marketplaces, pack openings, player trading, leaderboards, daily rewards, and AI-powered card battles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
